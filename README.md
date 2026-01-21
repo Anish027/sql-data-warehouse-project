@@ -33,6 +33,12 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
+🗺️ Project Roadmap
+  The end-to-end planning, development phases, design decisions, and future enhancements for this data warehouse are documented in Notion:
+  👉 Data Warehouse Project Roadmap (Notion)
+
+This roadmap captures the project lifecycle from requirements gathering and data modeling to performance optimization and analytics delivery.
+
 ## ❕License
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper
   
