@@ -35,7 +35,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 🗺️ Project Roadmap
   The end-to-end planning, development phases, design decisions, and future enhancements for this data warehouse are documented in Notion:
-  👉 Data Warehouse Project Roadmap (Notion)
+  👉👉 [Data Warehouse Project Roadmap (Notion)](https://www.notion.so/Data-Warehouse-Project-2e58ab30a3438033b008ce2f410fd7ad)
+
 
 This roadmap captures the project lifecycle from requirements gathering and data modeling to performance optimization and analytics delivery.
 
